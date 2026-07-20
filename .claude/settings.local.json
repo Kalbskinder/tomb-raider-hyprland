@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/kalbs/.config/dotfiles/**)",
+      "Read(//home/kalbs/.config/**)"
+    ]
+  }
+}
