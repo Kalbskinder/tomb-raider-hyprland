@@ -59,7 +59,7 @@
     "break",
     {
 	"type": "custom",
-        "format": "Specs"   
+        "format": "\u001b[1;36mSpecs\u001b[0m"
     },
     {
         "type": "cpu",
