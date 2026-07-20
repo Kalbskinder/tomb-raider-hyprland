@@ -8,4 +8,6 @@ Most configuration files are adjusted for my personal use and are only on github
 
 ## Fastfetch
 
-![https://github.com/Kalbskinder/tomb-raider-hyprland/tree/main/.github/fastfetch.png]("fastfetch showcase")
+Minimalistic fastfetch design: [here](https://github.com/Kalbskinder/tomb-raider-hyprland/tree/main/fastfetch)
+
+![fastfetch](https://github.com/Kalbskinder/tomb-raider-hyprland/blob/main/.github/fastfetch.png?raw=true)
