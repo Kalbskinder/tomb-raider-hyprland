@@ -1,4 +1,4 @@
-# Tomb Raider Hyperland
+# Tomb Raider Hyprland
 
 **WORK IN PROGRESS**
 
