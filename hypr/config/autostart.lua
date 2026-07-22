@@ -6,8 +6,8 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("noctalia")
     hl.exec_cmd("xhost +SI:localuser:root")
 
-    -- Main monitor: brave
-    hl.exec_cmd("brave")
+    -- Main monitor: brave (restores tabs from last session)
+    hl.exec_cmd("brave --restore-last-session")
     -- Secondary monitor: Discord (top half) and a second Brave window on Deezer (bottom half)
     hl.exec_cmd("discord")
     hl.exec_cmd("brave --app=https://deezer.com")
