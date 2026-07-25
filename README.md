@@ -13,7 +13,7 @@ Minimalistic fastfetch design: [here](https://github.com/Kalbskinder/tomb-raider
 ![fastfetch](https://github.com/Kalbskinder/tomb-raider-hyprland/blob/main/.github/fastfetch.png?raw=true)
 
 
-## Custom Theme
+## Noctalia Theme
 
 Base theme: [GitHub Dark](https://github.com/noctalia-dev/community-palettes/blob/main/GitHub%20Dark/GitHub%20Dark.json)
 
