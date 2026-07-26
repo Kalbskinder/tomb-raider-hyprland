@@ -25,7 +25,7 @@ Base theme: [SilentSDDM](https://github.com/uiriansan/SilentSDDM)
 
 ![theme](https://github.com/Kalbskinder/tomb-raider-hyprland/blob/main/.github/sddm-theme.png?raw=true)
 
-### Installation (Arch)
+### SDDM Installation (Arch)
 
 ```bash
 # Setup
