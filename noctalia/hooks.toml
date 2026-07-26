@@ -1,0 +1,2 @@
+[hooks]
+shutting_down = "/home/kalbs/.config/dotfiles/.config/scripts/shutdown.sh"
