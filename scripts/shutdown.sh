@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Fixes brave shutdown issues
-
 pkill -SIGTERM brave
-sleep 0.4
-
+timeout 0.5s tail -f /dev/null
 hyprctl dispatch exit
