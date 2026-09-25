@@ -128,3 +128,6 @@ hl.window_rule({
     },
     no_focus = true,
 })
+
+-- Fix cursor leaving minecraft when cursor should be locked
+hl.window_rule({ match = { class = "^(.*minecraft.*)$", fullscreen = true }, confine_pointer = true })

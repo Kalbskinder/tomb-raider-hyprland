@@ -6,6 +6,8 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("noctalia")
     hl.exec_cmd("xhost +SI:localuser:root")
 
+    hl.exec_cmd("musicpresence")
+
     hl.exec_cmd("brave")
     hl.exec_cmd("discord")
     hl.exec_cmd("brave --app=https://deezer.com")
